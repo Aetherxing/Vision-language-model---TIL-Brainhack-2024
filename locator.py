@@ -1,3 +1,6 @@
+#please ignore this (scrapped version) --> go to locator2.py instead
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
