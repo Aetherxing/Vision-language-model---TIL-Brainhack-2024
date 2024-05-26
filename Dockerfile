@@ -1,6 +1,6 @@
 FROM python:3.9
 
-WORKDIR /app
+WORKDIR /vlm_app
 
 COPY locator.py /app/locator.py 
 
