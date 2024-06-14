@@ -25,3 +25,11 @@ Originally intended for model to be able to uniquely identify objects of 3 class
 3. Helicopters
 
 --> Function failed as training model was unable to recognise class of object. 
+
+# Purpose of each file
+
+aircraft_classifier.py is training model to identify class of aircraft. 
+color_classifier.py is training model to identify color of target object. 
+aircraft_classifier_finale2.h5 & color_classifier_finale.h5 are final versions of trained models. 
+
+locator.py is an outdated version of the target in image locator code, please ignore it and refer to locator2.py
